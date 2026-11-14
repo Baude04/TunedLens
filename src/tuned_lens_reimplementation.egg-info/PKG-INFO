@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: tuned-lens-reimplementation
+Version: 0.1.0
+Summary: Tools for understanding how transformer predictions are built layer-by-layer
+Keywords: nlp,interpretability,language-models,explainable-ai
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# TunedLens
+Reimplementation of TunedLens from the article "Eliciting Latent Predictions from Transformers with the Tuned Lens".
